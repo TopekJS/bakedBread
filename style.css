@@ -155,7 +155,9 @@ li a{
     height: 60px;
     border-radius: 100%;
     text-align: center;
-    line-height: 60px;
+    line-height: 45px;
+    font-size: 14px;
+    font-weight: 400;
 }
 .btn-view {
     display: flex;
